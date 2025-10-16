@@ -6,3 +6,5 @@ A repository for learning GitHub.
 - CS major @ BRCC
 - Focus on Java and Python; some C and R
 - Interests: AI and STEM
+
+![Profile Picture](helloworld.jpeg)
