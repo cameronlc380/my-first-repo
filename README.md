@@ -8,3 +8,6 @@ A repository for learning GitHub.
 - Interests: AI and STEM
 
 ![Profile Picture](helloworld.jpeg)
+
+Editing. This is Editing.
+Coding is fun.
